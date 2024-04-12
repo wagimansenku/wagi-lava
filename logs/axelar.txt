@@ -1310,3 +1310,4 @@
 {"reason":"Value required for key at path 'latitude'. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\").","error":true}
 {"reason":"Value required for key at path 'latitude'. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\").","error":true}
 {"error":true,"reason":"Value required for key at path 'latitude'. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\")."}
+{"error":true,"reason":"Value required for key at path 'latitude'. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\")."}
