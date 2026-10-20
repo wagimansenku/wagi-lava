@@ -1347568,3 +1347568,4 @@ This chain is no longer supported on our public RPC. Keep using it on our Gatewa
 This chain is no longer supported on our public RPC. Keep using it on our Gateway: https://gateway.lavanet.xyz
 This chain is no longer supported on our public RPC. Keep using it on our Gateway: https://gateway.lavanet.xyz
 This chain is no longer supported on our public RPC. Keep using it on our Gateway: https://gateway.lavanet.xyz
+This chain is no longer supported on our public RPC. Keep using it on our Gateway: https://gateway.lavanet.xyz
